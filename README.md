@@ -41,4 +41,5 @@ Este dashboard permite:
 ## 🖼️ Vista Previa
 
 
-(Screenshot 2025-06-01 140544.png)
+(Data-Profesional-Survey-Breakdown-Desglose-de-encuesta-a-Profesionales-de-Datos
+/Screenshot 2025-06-01 140544.png)
