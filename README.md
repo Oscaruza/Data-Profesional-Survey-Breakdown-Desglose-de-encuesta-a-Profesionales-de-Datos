@@ -40,3 +40,5 @@ Este dashboard permite:
 
 ## 🖼️ Vista Previa
 
+
+(Screenshot 2025-06-01 140544.png)
