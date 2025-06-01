@@ -1,23 +1,21 @@
 # 📊 Data-Profesional-Survey-Breakdown-Desglose-de-encuesta-a-Profesionales-de-Datos
 
-Hello, this is a small project thtat shows the results of a telephonic Survey of Data profesionals  
+Hola, este es un pequeño proyecto de **Dashboard** en **Power BI** basado en una encuesta telefónica a profesionales de datos.
 
-Hola, este es un pequeno proyecto de **Dashboard** en **Power BI** basado en encuestas telefonicas al profesionales del area de datos. 
+## 📁 Dataset
 
-
-## 📁 Data set
-
-El data set de este proyecto fue tomado de:   @AlexTheAnalyst (https://github.com/AlexTheAnalyst) .   El archivo fue limpiado y transformado directamente en Power BI.
+La data set de este proyecto fue tomado de:   @AlexTheAnalyst (https://github.com/AlexTheAnalyst) .   El proceso de limpieza y transformación del archivo se realizó directamente en Power BI.
+- [Power BI - Final Project](https://github.com/Oscaruza/Data-Profesional-Survey-Breakdown-Desglose-de-encuesta-a-Profesionales-de-Datos/blob/Power-Bi-Practice/Datasets/Power%20BI%20-%20Final%20Project.xlsx)
 
 ## La segmentacion permite identificar las Varibles como :
-- Cantidad de encuestados
-- Edad promedio
-- Pais donde fue tomada la encuesta
-- Salario Promedio por Cargo
-- Genero
-- Lenguage de programacion favorito
-- Indice promedio de satisfaccion en la relacion Trabajo/Vida fuera del trabajo
-- Indice promedio de satisfaccion Salarial
+- Cantidad de encuestados.
+- Edad promedio.
+- Pais donde fue tomada la encuesta.
+- Salario Promedio por Cargo.
+- Género del encuestado.
+- Lenguage de programación favorito.
+- Indice promedio de satisfacción en la relacion Trabajo/Vida fuera del trabajo.
+- Indice promedio de satisfacción Salarial.
 
 ## ⚙️ Funciones y Características aplicadas
 
@@ -33,9 +31,9 @@ Este dashboard permite:
 
 - 🔍 Identificar los **Cargos mejor Remunerados**.
 - 🎓 Comparar **Rango de Salarios entre Paises**.
-- 🌍 Ubicar los **Lenguaje de programacion preferidos por Cargos**.
+- 🌍 Ubicar los **Lenguaje de programación preferidos por Cargos**.
 
-👥 Ideal para equipos de **Recursos Humanos**, **analistas de datos** y **managers** que buscan tomar decisiones informadas y basadas en datos.
+👥 Ideal para equipos de **Recursos Humanos**, **analistas de datos** y **managers** que buscan tomar decisiones basadas en datos.
 
 
 ## 🖼️ Vista Previa
