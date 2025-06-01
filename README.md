@@ -41,5 +41,5 @@ Este dashboard permite:
 ## 🖼️ Vista Previa
 
 
-![vista previa](https://github.com/Oscaruza/Data-Profesional-Survey-Breakdown-Desglose-de-encuesta-a-Profesionales-de-Datos/blob/Power-Bi-Practice/Screenshot%202025-06-01%20140544.png?raw=true)
+![vista previa](https://github.com/Oscaruza/Data-Profesional-Survey-Breakdown-Desglose-de-encuesta-a-Profesionales-de-Datos/blob/Power-Bi-Practice/pbix_File/Screenshot%202025-06-01%20140544.png?raw=true)
 
